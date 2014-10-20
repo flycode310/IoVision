@@ -1,0 +1,4 @@
+# tip
+tornado需要安装3.1.0以上版本
+如果使用的是python2.7
+还需要安装ssl_match_hostname

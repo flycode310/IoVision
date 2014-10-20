@@ -1,5 +1,3 @@
-#!/usr/bin/env PYTHON
-
 import os
 from tornado.web import Application
 from tornado.ioloop import IOLoop
@@ -27,4 +25,3 @@ if __name__ == "__main__":
     
     initServer()
     IOLoop.current().instance().start()
-
